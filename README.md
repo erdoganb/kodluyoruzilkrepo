@@ -1,6 +1,6 @@
 # Potentem trahens
 
-![alt text for screen readers](test.png "Text to show on mouseover")
+![alt text for screen readers](test.png)
 
 ## Ipse manibus
 
